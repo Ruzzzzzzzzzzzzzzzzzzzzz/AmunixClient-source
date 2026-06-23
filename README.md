@@ -12,7 +12,7 @@ Minecraft 1.21.4 Fabric Hypixel PvP client. 60 modules across 6 categories.
 ## Build
 
 ```bash
-git clone https://github.com/YOUR_USER/amunix.git
+git clone https://github.com/Ruzzzzzzzzzzzzzzzzzz/amunix.git
 cd amunix
 ./gradlew build
 ```
